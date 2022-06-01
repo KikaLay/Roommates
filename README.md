@@ -15,4 +15,4 @@ Crear una API REST
 Devolver los códigos de estado HTTP correspondientes a cada situación
 Enviar un correo electrónico a todos los roommates cuando se registre un nuevo gasto
 
-IMPORTANTE NO FUNCIONA E IMCOMPLETO. 
+IMPORTANTE: CODIGO NO FUNCIONA E IMCOMPLETO. 
